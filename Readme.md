@@ -6,4 +6,5 @@ To tackle this task, we implemented and compared three widely used architectures
 	•	Swin-Unet
 
 Among these, Swin-Unet achieved the best performance, leveraging Transformer-based attention mechanisms to enhance segmentation accuracy.
+![SwinUnet_metrics](metricsswin.png)
 
